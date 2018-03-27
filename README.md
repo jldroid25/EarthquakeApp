@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quake Report App
 ===================================
 
@@ -50,3 +51,7 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# EarthquakeApp
+Google Udacity Android Networking App
+>>>>>>> b14ee2419e0133966898a1e336f8ff215dcfaf6b
